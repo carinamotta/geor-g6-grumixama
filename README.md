@@ -1,0 +1,1 @@
+# geor-g6-grumixama
