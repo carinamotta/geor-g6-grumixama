@@ -1,8 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
 # Análise das lacunas espaciais e temporais do conjunto de dados do Atlantic Bird Traits
 
